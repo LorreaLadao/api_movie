@@ -1,0 +1,39 @@
+{
+  "movies": [
+    {
+      "title": "X-Men",
+      "actor": "Hugh Jackman",
+      "genre": "Superhero, Science Fiction",
+      "imdb_link": "https://www.imdb.com/title/tt0120903/",
+      "id": "1"
+    },
+    {
+      "title": "Avatar",
+      "actor": "Sam Worthington",
+      "genre": "Science Fiction, Adventure",
+      "imdb_link": "https://www.imdb.com/title/tt0499549/",
+      "id": "2"
+    },
+    {
+      "title": "Miracle in Cell No. 7",
+      "actor": "Aras Bulut Iynemli",
+      "genre": "Drama, Comedy",
+      "imdb_link": "https://www.imdb.com/title/tt3004746/",
+      "id": "3"
+    },
+    {
+      "title": "John Wick",
+      "actor": "Keanu Reeves",
+      "genre": "Action, Thriller",
+      "imdb_link": "https://www.imdb.com/title/tt2911666/",
+      "id": "4"
+    },
+    {
+      "title": "The Social Network",
+      "actor": "Jesse Eisenberg",
+      "genre": "Drama, Biography",
+      "imdb_link": "https://www.imdb.com/title/tt1285016/",
+      "id": "5"
+    }
+  ]
+}
